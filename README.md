@@ -1,2 +1,2 @@
 # EllipticCurvesPlot
-Plot some Elliptic Curves with Pyplot nothing fancy
+Just some plots of elliptic curves made with Matplotlib.pyplot. Enjoy!
