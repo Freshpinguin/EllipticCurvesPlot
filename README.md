@@ -1,5 +1,5 @@
 # EllipticCurvesPlot
-Just some plots of elliptic curves made with Matplotlib.pyplot. Enjoy!
+Just some plots of elliptic curves made with Matplotlib.pyplot.
 
 Elliptic Curve over $\mathbb{R}$ for a=-3, b=3.
 
